@@ -85,11 +85,13 @@
 ### 3. 接线图
 #### 底盘接线
 
-// TODO
+<img width="1539" height="862" alt="437707046a38b6abfb77fe9d9f123a47" src="https://github.com/user-attachments/assets/b2acbcf3-dfb3-498f-ac3c-75d262b902cb" />
+
 
 #### 遥控器接线
 
-// TODO
+<img width="1538" height="857" alt="613b60adf4f6da3203e0257d750fc0e4" src="https://github.com/user-attachments/assets/13e12665-fdcb-4f5d-bc08-df00e11a20fe" />
+
 
 
 ## 常见问题
@@ -120,6 +122,7 @@ A：可能与 OLED 模块的版本有关。旧版 OLED 可能需要焊接一个�
 | 2.15   | 基础版本（包含基础注释） |
 | 2.15   | 添加部分文字说明 |
 | 2.15   | 更新图片，调整 README 格式 |
+| 2.15   | 更新接线图 |
 
 
 ## 联系方式
